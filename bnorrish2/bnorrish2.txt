@@ -1,2 +1,1 @@
-Why do C++ programmers only have one child?
-Multiple inheritance is a headache.
+Git off my branch
