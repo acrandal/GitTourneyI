@@ -15,6 +15,7 @@ Note: main (master) branch cannot be pushed to. Make sure to follow the steps wh
 9) Push your new branch up to the origin: git push
     * now, copy & paste the command from the error kicked out by git
     * You might get an extra special error because you didn't create a new branch and pushed to main. 
+      - It'll include this in the error:  ! [remote rejected] main -> main (protected branch hook declined)
       - Go back to 2, but you might need to run 'git stash' and start over some.
 10) Refresh the web interface to check that your new branch and file is there
 11) Run 'git pull' to snag all those other branches just created by others
