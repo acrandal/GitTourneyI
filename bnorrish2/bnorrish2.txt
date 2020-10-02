@@ -1,1 +1,2 @@
-Git off my branch
+Why do C++ programmers only have one child?
+Multiple inheritance is a headache.
