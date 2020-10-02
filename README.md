@@ -23,6 +23,7 @@ Note: main (master) branch cannot be pushed to. Make sure to follow the steps wh
 12) Look at the bracket to see which branch you need to merge with
   * refresh until it shows up or we decide they're not active
  12a) Create a merge request with that other branch to push your entry into their branch
+  * NOTE!!! Uncheck the "remove branch after merge checkbox"!
  12b) Accept their merge request to merge into yours as well
  12c) Do a quick discussion on Zoom to decide which branch should 'win' your round and let Crandall know so he can update the bracket
 
